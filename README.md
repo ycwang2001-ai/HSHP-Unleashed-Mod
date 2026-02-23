@@ -23,3 +23,8 @@ Added three new game options:
 - No AI traders.
 - Player start with extra money, and 250 stockpile of all goods plus extra building materials in home city.
 - Add 100 repulation and 50 mayor respect per dwelling placed.
+
+Mod Installation:
+1. Download BepInex (https://github.com/BepInEx/BepInEx/releases)
+2. Run game once with BepInex installed, it should create the plugins folder
+3. Place HSHP-Mod.dll in \Steam\steamapps\common\High Seas, High Profits!\BepInEx\plugins
